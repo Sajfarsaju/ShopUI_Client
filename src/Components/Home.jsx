@@ -26,7 +26,7 @@ function Home() {
     <div className='text-center mt-3'>
       <div className="text-center">
         <h1 className="text-3xl font-bold text-indigo-600">
-          Welcome {user.name ? user.name : "Guest user"}
+          {/* Welcome {user.name ? user.name : "Guest user"} */}
         </h1>
         <p className="mt-4 text-gray-600">
           Explore our products with a clean and modern interface.
